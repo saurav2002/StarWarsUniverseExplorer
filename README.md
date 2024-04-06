@@ -1,4 +1,8 @@
-Description
+StarWars Universe Explorer
+
+To View the live site click here →
+
+Description  
 StarWarUniverse is a website dedicated to exploring the vast and captivating world of Star Wars characters. Leveraging the power of the public API provided by SWAPI, the website offers an immersive experience for fans to discover information about their favorite characters from the iconic franchise.
 
 Upon visiting StarWarUniverse, users are greeted with a visually stunning interface that immediately draws them into the Star Wars universe. The homepage features a dynamic list of all Star Wars characters, beautifully presented in a card format. Each character card showcases the character's name along with a captivating random picture sourced from Picsum.photos.
